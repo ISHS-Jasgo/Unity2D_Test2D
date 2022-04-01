@@ -157,7 +157,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   follow: {fileID: 0}
+  animator: {fileID: 0}
   knockback: 0
+  stun: 0
 --- !u!1 &1114185828476395461
 GameObject:
   m_ObjectHideFlags: 0
@@ -487,7 +489,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uAE40\uD0DC\uD615 [LV.1]\n"
+  m_Text: "\uC2AC\uB77C\uC784 [LV.1]\n"
 --- !u!1 &4622030240414011295
 GameObject:
   m_ObjectHideFlags: 0
